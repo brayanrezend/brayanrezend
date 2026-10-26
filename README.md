@@ -1,3 +1,8 @@
+
+<p align="center">
+  <img src="./banner.png" alt="Brayan Rezende — Desenvolvedor Full Stack, APIs e Engenharia de Dados" width="100%" />
+</p>
+
 # Olá! Eu sou o Brayan Rezende
 
 Desenvolvedor Full Stack com foco em arquitetura de software, desenvolvimento web, APIs, integração de sistemas e engenharia de dados. Tenho interesse em construir soluções escaláveis, eficientes e de fácil manutenção, buscando sempre aprimorar a qualidade e a organização do código.
